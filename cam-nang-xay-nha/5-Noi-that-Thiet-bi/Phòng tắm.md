@@ -66,6 +66,8 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 🧱 Khi lát gạch **nhà vệ sinh / phòng tắm**, nên làm theo kiểu **tường đè lên gạch nền**.
 - ✅ Tức là **làm nền trước, ốp tường sau**.
 - ⚡ Cách này thường cho mép hoàn thiện gọn hơn và xử lý tiếp giáp chân tường tốt hơn.
+- 🎨 **Ron/keo chít mạch gạch nên chọn cùng màu với gạch**.
+- ❌ **Tuyệt đối không làm ron khác màu** nếu muốn tổng thể nhìn liền mạch, sạch và đỡ lộ mạch.
 
 ---
 
