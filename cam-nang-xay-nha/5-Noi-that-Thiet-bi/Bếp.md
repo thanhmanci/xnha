@@ -92,6 +92,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 📐 **Tủ dưới kém mặt đá 2cm:** nếu mặt đá sâu 60cm thì tủ chỉ làm 58cm — phần đá nhô ra phía trước giúp **hạn chế nước rơi vào trong tủ**. (Xem hình minh hoạ)
 - 💰 **Khi mua tủ lạnh, nên ưu tiên loại ngang 60cm** nếu hộc/tủ đã chừa theo kích thước phổ biến này — giúp **không phải phá tường** hoặc phát sinh tiền **mở rộng tủ / sửa nội thất**.
 - ⚡ Trước khi chốt mẫu, cần kiểm tra thêm **kích thước thực tế của thân tủ lạnh, độ mở cánh và khoảng hở thoát nhiệt** để tránh vừa lọt hộc nhưng dùng vẫn bất tiện.
+- 🔌 *Không nên lắp ổ cắm tủ lạnh ở ngay phía sau tủ lạnh* — dễ làm phần lưng tủ bị cấn, nhất là khi làm hộc hoặc tủ lạnh âm.
+- ✅ **Nên đặt ổ cắm ở hốc bên cạnh cửa tủ lạnh** để tủ có thể vào sâu hơn, **không bị nhô ra ngoài** chỉ vì vướng ổ cắm phía sau.
+- ⚡ Cách bố trí này cũng giúp **dễ rút điện khi vệ sinh hoặc bảo trì** hơn so với ổ cắm nằm khuất sau lưng tủ.
 
 ---
 
