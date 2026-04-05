@@ -95,6 +95,8 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 🔌 *Không nên lắp ổ cắm tủ lạnh ở ngay phía sau tủ lạnh* — dễ làm phần lưng tủ bị cấn, nhất là khi làm hộc hoặc tủ lạnh âm.
 - ✅ **Nên đặt ổ cắm ở hốc bên cạnh cửa tủ lạnh** để tủ có thể vào sâu hơn, **không bị nhô ra ngoài** chỉ vì vướng ổ cắm phía sau.
 - ⚡ Cách bố trí này cũng giúp **dễ rút điện khi vệ sinh hoặc bảo trì** hơn so với ổ cắm nằm khuất sau lưng tủ.
+- 🧱 **Tủ bếp treo nên làm sát trần**.
+- ✅ Như vậy sẽ **đỡ bám bụi** ở phần nóc tủ và đỡ phải vệ sinh khu vực khó lau phía trên.
 
 ---
 
