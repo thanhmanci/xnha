@@ -56,6 +56,16 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 📐 Nếu lệch quá nhiều thì vẫn nên xử lý lại **đầu chờ / vị trí cấp nước** để lắp ổn định hơn.
 - 🚿 **Nên chọn lavabo đá phiến liền khối** — ít khe ghép nên **dễ vệ sinh hơn**, ít bám bẩn hơn.
 - ✅ Loại này cũng thường **bền** và nhìn gọn hơn so với các kiểu lavabo ghép rời.
+- 🚿 Với thoát sàn khu vệ sinh, **có thể dùng loại thoát sàn thông thường**.
+- 📐 Quan trọng là dặn thợ ốp lát **chia gạch và tạo dốc về 4 phía** đổ về miệng thoát sàn.
+- ✅ Cách này giúp **thoát nước tốt hơn nhiều** mà không nhất thiết phải dùng loại thoát sàn đặc biệt.
+
+---
+
+## 🖼️ Hình ảnh minh hoạ
+
+![[file_0---5d0f1195-e8a8-45ee-9d28-51118cfb4822.jpg]]
+_Minh hoạ cách chia gạch và tạo dốc 4 phía về thoát sàn_
 
 ---
 
