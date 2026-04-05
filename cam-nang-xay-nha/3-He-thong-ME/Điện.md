@@ -60,6 +60,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - ✅ Nên **đi dọc** vì đục ngang có thể ảnh hưởng kết cấu chịu lực của tường.
 - 🔌 Hệ thống điện **bếp, vệ sinh, điều hoà** nên có **mạch riêng độc lập**.
 - ⚠️ Như vậy nếu có sự cố, các khu vực khác sẽ **ít bị ảnh hưởng hơn**.
+- 🔌 Nên **dự trù ổ cắm ở mỗi phòng**.
+- 🌐 Đồng thời nên đi sẵn **dây mạng ở mỗi phòng**.
+- ✅ Làm sẵn từ đầu sẽ tiện dùng hơn và tránh phải kéo nổi / sửa lại sau này.
 
 ---
 
