@@ -63,6 +63,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - ✅ **Nên dùng loại polyurethane** cho mạch gạch để bền và sạch hơn.
 - 🎨 Với **gạch tối màu**, nên ưu tiên **keo chít mạch epoxy**.
 - ⚠️ **Tuyệt đối không dùng keo chít mạch gốc xi măng** trong khu vệ sinh nếu muốn hạn chế mốc bẩn và xuống màu.
+- 🧱 Khi lát gạch **nhà vệ sinh / phòng tắm**, nên làm theo kiểu **tường đè lên gạch nền**.
+- ✅ Tức là **làm nền trước, ốp tường sau**.
+- ⚡ Cách này thường cho mép hoàn thiện gọn hơn và xử lý tiếp giáp chân tường tốt hơn.
 
 ---
 
