@@ -54,6 +54,8 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - ✅ Cách này giúp việc lắp **vòi hoa sen linh động hơn**, đỡ phải đục sửa nhiều.
 - ⚡ Tuy nhiên độ lệch tối đa của loại này chỉ khoảng **3–40°**, nên chủ yếu phù hợp khi lệch nhẹ đến vừa.
 - 📐 Nếu lệch quá nhiều thì vẫn nên xử lý lại **đầu chờ / vị trí cấp nước** để lắp ổn định hơn.
+- 🚿 **Nên chọn lavabo đá phiến liền khối** — ít khe ghép nên **dễ vệ sinh hơn**, ít bám bẩn hơn.
+- ✅ Loại này cũng thường **bền** và nhìn gọn hơn so với các kiểu lavabo ghép rời.
 
 ---
 
