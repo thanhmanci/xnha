@@ -51,6 +51,8 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 📺 Ổ cắm tivi nên **đi ống dẫn dây xuống dưới hộc tủ**.
 - ✅ Từ đó bố trí ổ cắm ở khu vực **hộc tủ** để **giấu dây gọn hơn**.
 - 🎨 Cách này giúp khi treo tivi **không bị lộ dây phía sau / dây thõng ra ngoài**.
+- ⚡ Dây điện nên dùng loại **BV, lõi đồng**.
+- ✅ Đi âm tường sẽ **yên tâm hơn về chất lượng** và độ bền.
 
 ---
 
