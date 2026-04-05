@@ -63,6 +63,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 👷 Ở vị trí khe hở giữa **ống cống / ống nước** và phần xi măng xung quanh, cần **quét chống thấm thật kỹ và đủ lớp** để tránh nước len qua các khe xi măng.
 - ⚡ Trước khi hoàn thiện, nên **kiểm tra kỹ quanh cổ ống** xem còn khe hở hay không.
 - ✅ Nếu khe giữa ống chờ và miệng thoát còn rộng hoặc xử lý chưa kín, có thể dùng **phễu thoát sàn loại dài** để nhét sâu xuống, giúp ôm kín hơn và giảm nguy cơ thấm.
+- 💧 **Chống thấm sàn nên dùng loại dẻo**.
+- 🧱 **Chống thấm tường nên dùng loại cứng**.
+- ✅ Đây là nguyên tắc chọn vật liệu chống thấm theo vị trí thi công.
 
 ---
 
