@@ -74,6 +74,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 📐 **Khoảng cách tiêu chuẩn giữa 2 đầu chờ / 2 mạch ống vòi sen là 15cm**.
 - 🚿 Nếu bị lệch, có thể dùng **chân sen lệch góc** để điều chỉnh khi lắp.
 - ⚡ Cách này giúp xử lý sai số đầu chờ mà không phải đục sửa ngay.
+- ❌ Nhà tắm **không nên dùng gờ chặn nước**.
+- ✅ Nên thiết kế **cốt sàn nhà tắm âm xuống** so với khu vực bên ngoài.
+- 💧 Làm như vậy nước mới **không tràn sang phòng khác**.
 
 ---
 
@@ -84,6 +87,9 @@ _Minh hoạ cách chia gạch và tạo dốc 4 phía về thoát sàn_
 
 ![[file_1---22d6e36c-c921-4362-96da-76c5c447c562.jpg]]
 _Minh hoạ đường ống thoát lavabo âm tường, gọn và dễ vệ sinh sàn_
+
+![[file_2---e48d935a-653f-4515-94f3-fd6b0d9b37d3.jpg]]
+_Minh hoạ nhà tắm không dùng gờ chặn nước, sàn âm xuống để tránh tràn nước ra ngoài_
 
 ---
 
