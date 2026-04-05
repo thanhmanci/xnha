@@ -59,6 +59,10 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 🚿 Với thoát sàn khu vệ sinh, **có thể dùng loại thoát sàn thông thường**.
 - 📐 Quan trọng là dặn thợ ốp lát **chia gạch và tạo dốc về 4 phía** đổ về miệng thoát sàn.
 - ✅ Cách này giúp **thoát nước tốt hơn nhiều** mà không nhất thiết phải dùng loại thoát sàn đặc biệt.
+- ❌ Nhà vệ sinh *không nên dùng keo chít mạch màu trắng* vì **dễ ẩm mốc, xỉn màu**.
+- ✅ **Nên dùng loại polyurethane** cho mạch gạch để bền và sạch hơn.
+- 🎨 Với **gạch tối màu**, nên ưu tiên **keo chít mạch epoxy**.
+- ⚠️ **Tuyệt đối không dùng keo chít mạch gốc xi măng** trong khu vệ sinh nếu muốn hạn chế mốc bẩn và xuống màu.
 
 ---
 
