@@ -52,6 +52,8 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 👷 Thợ khuyên dùng **ống PPR** thay vì *ống nhựa thường* cho hệ thống nước sinh hoạt (nước cấp vào bếp, phòng tắm). Ống PPR an toàn hơn, không thôi hóa chất, chịu áp lực và nhiệt độ tốt hơn.
 - 🔥 Với đường **nước nóng lạnh**, nên **chọn ống PPR**.
 - ❌ *Không dùng PVC* cho đường nóng lạnh vì **dễ nóng chảy, biến dạng** khi gặp nhiệt.
+- 🚰 Sau khi lắp xong đường nước, cần **kiểm tra / đo áp lực nước**.
+- ✅ Đồng thời nên **yêu cầu đơn vị thi công cấp phiếu bảo hành**.
 
 ---
 
