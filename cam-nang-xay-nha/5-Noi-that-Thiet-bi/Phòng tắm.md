@@ -71,6 +71,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 🚿 Với **lavabo**, nên làm **đường ống thoát nước âm tường**.
 - ❌ Không nên để đường thoát ở nền nếu muốn khu lavabo gọn.
 - ✅ Cách này giúp **lắp đặt gọn hơn** và **dễ vệ sinh sàn hơn**.
+- 📐 **Khoảng cách tiêu chuẩn giữa 2 đầu chờ / 2 mạch ống vòi sen là 15cm**.
+- 🚿 Nếu bị lệch, có thể dùng **chân sen lệch góc** để điều chỉnh khi lắp.
+- ⚡ Cách này giúp xử lý sai số đầu chờ mà không phải đục sửa ngay.
 
 ---
 
