@@ -53,6 +53,13 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 🎨 Cách này giúp khi treo tivi **không bị lộ dây phía sau / dây thõng ra ngoài**.
 - ⚡ Dây điện nên dùng loại **BV, lõi đồng**.
 - ✅ Đi âm tường sẽ **yên tâm hơn về chất lượng** và độ bền.
+- ⚡ **Bếp và phòng vệ sinh** nên dùng dây điện **4mm**.
+- 💡 **Đèn** dùng dây **1.5mm**.
+- 🏠 Các khu vực khác dùng **2.5mm** là ổn.
+- ❌ Trừ khi bất khả kháng, **không nên đục ngang tường để đi dây**.
+- ✅ Nên **đi dọc** vì đục ngang có thể ảnh hưởng kết cấu chịu lực của tường.
+- 🔌 Hệ thống điện **bếp, vệ sinh, điều hoà** nên có **mạch riêng độc lập**.
+- ⚠️ Như vậy nếu có sự cố, các khu vực khác sẽ **ít bị ảnh hưởng hơn**.
 
 ---
 
