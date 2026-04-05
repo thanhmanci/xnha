@@ -60,6 +60,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - ⚡ Nếu là **sàn bê tông mới đổ**, phải chờ **ít nhất 7–14 ngày** cho bê tông ổn định rồi mới test — test quá sớm kết quả không đáng tin.
 - 👷 Quanh **miệng ống xả bồn cầu** tại nhà vệ sinh, **phải quét keo/chất chống thấm kỹ quanh cổ ống** để giảm nguy cơ rò nước tại vị trí xuyên sàn.
 - ❌ *Bỏ sót hoặc xử lý sơ sài quanh cổ ống xuyên sàn* là lỗi rất dễ gây thấm, mà sau khi lắp thiết bị và hoàn thiện sẽ khó sửa hơn nhiều.
+- 👷 Ở vị trí khe hở giữa **ống cống / ống nước** và phần xi măng xung quanh, cần **quét chống thấm thật kỹ và đủ lớp** để tránh nước len qua các khe xi măng.
+- ⚡ Trước khi hoàn thiện, nên **kiểm tra kỹ quanh cổ ống** xem còn khe hở hay không.
+- ✅ Nếu khe giữa ống chờ và miệng thoát còn rộng hoặc xử lý chưa kín, có thể dùng **phễu thoát sàn loại dài** để nhét sâu xuống, giúp ôm kín hơn và giảm nguy cơ thấm.
 
 ---
 
