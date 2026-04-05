@@ -68,6 +68,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - ⚡ Cách này thường cho mép hoàn thiện gọn hơn và xử lý tiếp giáp chân tường tốt hơn.
 - 🎨 **Ron/keo chít mạch gạch nên chọn cùng màu với gạch**.
 - ❌ **Tuyệt đối không làm ron khác màu** nếu muốn tổng thể nhìn liền mạch, sạch và đỡ lộ mạch.
+- 🚿 Với **lavabo**, nên làm **đường ống thoát nước âm tường**.
+- ❌ Không nên để đường thoát ở nền nếu muốn khu lavabo gọn.
+- ✅ Cách này giúp **lắp đặt gọn hơn** và **dễ vệ sinh sàn hơn**.
 
 ---
 
@@ -75,6 +78,9 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 
 ![[file_0---5d0f1195-e8a8-45ee-9d28-51118cfb4822.jpg]]
 _Minh hoạ cách chia gạch và tạo dốc 4 phía về thoát sàn_
+
+![[file_1---22d6e36c-c921-4362-96da-76c5c447c562.jpg]]
+_Minh hoạ đường ống thoát lavabo âm tường, gọn và dễ vệ sinh sàn_
 
 ---
 
