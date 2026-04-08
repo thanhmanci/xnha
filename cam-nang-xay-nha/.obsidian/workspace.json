@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "67e409838761a97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "436d0e13c7e225f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0176c3d29d892a36",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🗺️ Mind Map.canvas",
+                "viewState": {
+                  "x": 79.3515625,
+                  "y": 552.6231445312501,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "🗺️ Mind Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3767ac698adca51",
+    "type": "split",
+    "children": [
+      {
+        "id": "c224e020d02583b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79595d393eddcffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4bbbc8bbfda53caf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0753070f79f920d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "212308dc26a28a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c0cfb4d6c83154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54b2c21bc00b194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-Phan-tho/Cầu thang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cầu thang"
+            }
+          },
+          {
+            "id": "b43ccced8d7847be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-Phan-tho/Cầu thang.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cầu thang"
+            }
+          },
+          {
+            "id": "ec92941a4d224c37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fac5f561739e3434",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "20b46b00a9b3fd85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-Phan-tho/Cầu thang.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cầu thang"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0176c3d29d892a36",
+  "lastOpenFiles": [
+    "assets/file_2---e48d935a-653f-4515-94f3-fd6b0d9b37d3.jpg",
+    "assets/file_1---22d6e36c-c921-4362-96da-76c5c447c562.jpg",
+    "assets/file_0---5d0f1195-e8a8-45ee-9d28-51118cfb4822.jpg",
+    "3-He-thong-ME/Nước thoát.md",
+    "🗺️ Mind Map.canvas",
+    "3-He-thong-ME/Nước cấp.md",
+    "5-Noi-that-Thiet-bi/Bếp.md",
+    "4-Hoan-thien/Lát gạch & Đá.md",
+    "5-Noi-that-Thiet-bi/🛋️ Nội Thất & Thiết Bị.md",
+    "5-Noi-that-Thiet-bi/Phòng tắm.md",
+    "2-Phan-tho/Xây tường.md",
+    "5-Noi-that-Thiet-bi/Tủ & kệ âm tường.md",
+    "2-Phan-tho/🧱 Phần Thô.md",
+    "🏠 Cẩm Nang Xây Nhà.md",
+    "4-Hoan-thien/🎨 Hoàn Thiện.md",
+    "4-Hoan-thien/Lan can & Cầu thang.md",
+    "4-Hoan-thien/Trát & Sơn.md",
+    "5-Noi-that-Thiet-bi/Sàn gỗ & Thảm.md",
+    "4-Hoan-thien/Chống thấm.md",
+    "claude_core.md",
+    "CLAUDE copy.md",
+    "2-Phan-tho/Cầu thang.md",
+    "2-Phan-tho/Khung kết cấu.md",
+    "5-Noi-that-Thiet-bi/Máy rửa bát.md",
+    "5-Noi-that-Thiet-bi/Chiếu sáng.md",
+    "1-Chuan-bi/Chọn KTS & Nhà thầu.md"
+  ]
+}

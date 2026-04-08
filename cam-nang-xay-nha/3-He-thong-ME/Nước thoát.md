@@ -55,6 +55,12 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 📐 **Ống thoát nước nên làm cao hơn nền hoàn thiện khoảng 1–2cm**.
 - ✅ Cao độ này giúp xử lý lắp **miệng thoát / phễu thoát sàn** thuận hơn ở bước hoàn thiện.
 
+### 📅 2026-04-06
+
+- 🔩 Khi trét xi măng tại vị trí **cổ ống thoát nước**, **nên đi gioăng trương nở**.
+- ✅ Chi tiết này giúp vị trí tiếp giáp quanh ống kín hơn, giảm nguy cơ **nứt chân ống** và hạn chế **thấm rò** về sau.
+- ⚡ Rất đáng áp dụng ở các khu vực ẩm ướt có ống xuyên sàn như **nhà vệ sinh, ban công, sân thượng**.
+
 ---
 
 **Quay lại:** [[⚡ Hệ Thống M&E]]

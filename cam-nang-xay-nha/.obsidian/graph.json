@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:1-Chuan-bi",
+      "color": {
+        "a": 1,
+        "rgb": 15243320
+      }
+    },
+    {
+      "query": "path:2-Phan-tho",
+      "color": {
+        "a": 1,
+        "rgb": 13919562
+      }
+    },
+    {
+      "query": "path:3-He-thong-ME",
+      "color": {
+        "a": 1,
+        "rgb": 4886745
+      }
+    },
+    {
+      "query": "path:4-Hoan-thien",
+      "color": {
+        "a": 1,
+        "rgb": 7061337
+      }
+    },
+    {
+      "query": "path:5-Noi-that",
+      "color": {
+        "a": 1,
+        "rgb": 10181567
+      }
+    },
+    {
+      "query": "path:6-Nghiem-thu",
+      "color": {
+        "a": 1,
+        "rgb": 6012094
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.1752081305560904,
+  "close": false
+}
