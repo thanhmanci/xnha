@@ -51,6 +51,15 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 💧 Trước khi xây phải **tưới nước cho gạch** để tránh gạch hút hết nước từ vữa xi măng, làm giảm độ bền.
 - 🧱 Xây được **nửa tường** thì nên dừng, chờ vữa **lún đều**, hôm sau mới xây tiếp.
 - 📐 Hàng gạch trên cùng, chỗ **giáp trần**, nên **xây chéo** để tăng độ bền và khả năng chịu lực.
+- ✅ Tất cả các chỗ **đục tường** nên **ghép lưới mắt cáo** trước khi trát lại để hạn chế nứt.
+- ✅ Các vị trí **tiếp giáp giữa trụ bê tông và tường gạch** cũng nên ghép **lưới mắt cáo**, vì đây là chỗ rất dễ nứt do vật liệu co giãn khác nhau.
+
+---
+
+## 🖼️ Hình ảnh minh hoạ
+
+![[luoi-mat-cao-duc-tuong-tiep-giap-tru-tuong-gach.jpg]]
+_Lưới mắt cáo được ghép tại vị trí đục tường đi điện và tại chỗ tiếp giáp giữa trụ bê tông với tường gạch để hạn chế nứt sau khi trát._
 
 ---
 
