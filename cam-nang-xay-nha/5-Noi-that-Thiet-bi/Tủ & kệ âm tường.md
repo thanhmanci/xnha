@@ -55,6 +55,11 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 📐 Ngăn treo **đồ dài** nên cao **trên 95cm**.
 - 💡 Ghi chú này giúp chia khoang **tủ quần áo** hợp lý hơn theo nhu cầu sử dụng thực tế.
 
+### 📅 2026-04-09
+
+- ✅ Các loại **tủ nên làm kịch trần** để hạn chế bụi bám trên nóc tủ, dễ vệ sinh hơn và tận dụng thêm không gian chứa đồ.
+- ❌ *Không nên làm tủ giả* chỉ để che phần hở phía trên, vì dễ thành chi tiết thừa, tốn chi phí mà hiệu quả sử dụng không cao.
+
 ---
 
 **Quay lại:** [[🛋️ Nội Thất & Thiết Bị]]
