@@ -39,6 +39,7 @@ _Những lỗi hay mắc phải, bài học từ thực tế._
 2. ❌ *Không vệ sinh kẽ gạch ngay sau khi lát* — xi măng khô cứng bám vào mặt gạch và kẽ, cạo sạch rất khó và dễ xước gạch.
 3. ❌ *Kẽ gạch quá hẹp hoặc quá rộng* — quá hẹp keo chèn không vào được; quá rộng mất thẩm mỹ và dễ đọng bẩn.
 4. ❌ *Không trải bạt bảo vệ sau khi lát* — gạch men dễ bị xước do dụng cụ, vật liệu thi công các bước tiếp theo.
+5. ❌ *Cắt gạch vuông góc sắc cạnh ở các vị trí ôm cột, góc vuông* — khi sàn có rung lắc hoặc co giãn, vết nứt dễ phát sinh từ chính góc cắt này.
 
 
 
@@ -54,6 +55,8 @@ _Cách kiểm tra chất lượng, checklist nghiệm thu._
 - [ ] 📐 Đo độ chênh lệch từ điểm cao nhất đến lỗ thoát: **tối thiểu 2cm**
 - [ ] 📐 Kiểm tra kẽ gạch đều **2mm** trước khi xi măng khô
 - [ ] 🔧 Khi nhập gạch về, kiểm tra và yêu cầu thợ **để riêng các viên lệch màu, sứt hoặc vỡ** để tránh lát nhầm và còn **đổi trả với cửa hàng**
+- [ ] 🔧 Với các vị trí gạch ôm **góc vuông / chân cột**, kiểm tra thợ có **mài bo trong một chút** ở góc cắt thay vì để góc vuông sắc cạnh
+- [ ] 🔧 Nếu cần, yêu cầu dùng **công cụ chuyên dụng để bo tròn/giảm sắc cạnh** ở góc cắt nhằm hạn chế nứt về sau
 - [ ] 🔧 Giám sát thợ **vệ sinh kẽ và mặt gạch ngay** khi xi măng còn tươi, không để khô mới lau
 - [ ] 🛡️ Xác nhận đã **trải bạt bảo vệ** toàn bộ mặt sàn sau khi lát xong
 
@@ -88,6 +91,18 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 
 - 📐 Khi lát gạch, nên yêu cầu thợ giữ **khe giữa các viên đúng 2mm** và đều tay trên toàn bộ mặt sàn.
 - ✅ Khi nhập gạch về, nếu có viên **lệch màu, sứt hoặc vỡ**, nên nhắc thợ **để riêng ra**, không dùng lẫn vào khu vực hoàn thiện đẹp để còn **đổi trả với cửa hàng**.
+- ⚠️ Khi ốp/lát gạch ở các đoạn **góc vuông**, đặc biệt chỗ **ôm chân cột**, *không nên cắt vuông góc sắc cạnh hoàn toàn* vì sàn có độ rung lắc hoặc co giãn sẽ dễ làm nứt gạch từ vị trí này.
+- ✅ Nên **mài bo trong một chút** ở góc cắt, dùng **công cụ chuyên dụng** để bo tròn/giảm sắc cạnh nhằm giảm tập trung ứng suất.
+
+---
+
+## 🖼️ Hình ảnh minh hoạ
+
+![[goc-cat-gach-can-mai-bo-trong.jpg]]
+_Vị trí gạch ôm chân cột, góc cắt nếu để vuông sắc cạnh sẽ dễ tạo điểm yếu._
+
+![[vo-gach-nut-tu-goc-cat-vuong.jpg]]
+_Vết nứt phát sinh từ góc cắt vuông, minh hoạ rõ rủi ro nếu không mài bo trong ở vị trí ôm góc._
 
 ---
 
