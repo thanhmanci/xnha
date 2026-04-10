@@ -52,7 +52,8 @@ _Cách kiểm tra chất lượng, checklist nghiệm thu._
 - [ ] 💡 Mẹo kiểm tra nhanh: **thả nhiều viên bi lên sàn**; nếu bi tự lăn và **tụ về phía cống thoát nước** thì độ dốc cơ bản là ổn
 - [ ] ⚠️ Nếu bi đứng yên, lăn tản mát hoặc tụ ở chỗ khác, cần kiểm tra lại **độ dốc** và các **điểm trũng** trên mặt sàn
 - [ ] 📐 Đo độ chênh lệch từ điểm cao nhất đến lỗ thoát: **tối thiểu 2cm**
-- [ ] 📐 Kiểm tra kẽ gạch đều **~2mm** trước khi xi măng khô
+- [ ] 📐 Kiểm tra kẽ gạch đều **2mm** trước khi xi măng khô
+- [ ] 🔧 Khi nhập gạch về, kiểm tra và yêu cầu thợ **để riêng các viên lệch màu, sứt hoặc vỡ** để tránh lát nhầm và còn **đổi trả với cửa hàng**
 - [ ] 🔧 Giám sát thợ **vệ sinh kẽ và mặt gạch ngay** khi xi măng còn tươi, không để khô mới lau
 - [ ] 🛡️ Xác nhận đã **trải bạt bảo vệ** toàn bộ mặt sàn sau khi lát xong
 
@@ -82,6 +83,11 @@ _Ghi chú tự do từ công trình, từ thợ, từ học hỏi._
 - 🎨 Với hướng nhìn chính, nên ưu tiên **gạch nguyên, gạch đẹp** ở **cuối đường nhìn** để tổng thể đẹp hơn.
 - 🔧 **Gạch cắt, gạch lẻ** nên ưu tiên bố trí ở **đầu đường nhìn**, dưới **kệ/tủ** hoặc các vị trí **khuất tầm mắt**.
 - 💡 Concept này có thể áp dụng tương tự cho các phòng khác để mặt lát nhìn **liền mạch, sạch và thẩm mỹ hơn**.
+
+### 📅 2026-04-10
+
+- 📐 Khi lát gạch, nên yêu cầu thợ giữ **khe giữa các viên đúng 2mm** và đều tay trên toàn bộ mặt sàn.
+- ✅ Khi nhập gạch về, nếu có viên **lệch màu, sứt hoặc vỡ**, nên nhắc thợ **để riêng ra**, không dùng lẫn vào khu vực hoàn thiện đẹp để còn **đổi trả với cửa hàng**.
 
 ---
 
